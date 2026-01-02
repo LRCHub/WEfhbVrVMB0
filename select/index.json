@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "対象x",
+  "base_artist": "ユリイ・カノン",
+  "createdAt": "2026-01-02T15:01:16.079710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "対象x",
+      "artist": "ユリイ・カノン",
+      "has_synced": false,
+      "path": "select/01_対象x_ユリイ・カノン.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "対象x",
+      "artist": "ユリイ・カノン",
+      "has_synced": false,
+      "path": "select/pl_01_対象x_ユリイ・カノン.txt"
+    }
+  ]
+}
